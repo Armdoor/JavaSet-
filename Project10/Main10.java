@@ -1,4 +1,4 @@
-// Assignment: 10
+// Project
 // Name:Akshit Sanoria
 // StudentID:1220420435
 // Lecture:T/TH 1:30 -2:45 pm 
@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Assignment10 {
+public class Main10 {
     public static void main(String[] args) {
         char input1;
         String line;

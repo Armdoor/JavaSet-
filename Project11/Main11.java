@@ -3,7 +3,7 @@
 // StudentID:1220420435
 // Lecture:T/TH 1:30 -2:45 pm 
 // Description: This is main class for assignment 11 
-public class Assignment11 {
+public class Main11 {
 
 	public static void main(String[] args) {
 		MazeSolver mazeSolver = new MazeSolver();
